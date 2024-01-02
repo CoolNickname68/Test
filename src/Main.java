@@ -1,10 +1,14 @@
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> e25e0b4aeb5c42cc91134de3cf0eb30c563f40b4
 public class Main {
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         byte fish = 14;
         int dog = 35000;
         short bird = 400;
@@ -154,5 +158,12 @@ public class Main {
         System.out.printf("Маша теперь получает %.2f рублей. Годовой доход вырос на %.2f рублей.%n", newSalaryMasha, annualIncomeIncreaseMasha);
         System.out.printf("Денис теперь получает %.2f рублей. Годовой доход вырос на %.2f рублей.%n", newSalaryDenis, annualIncomeIncreaseDenis);
         System.out.printf("Кристина теперь получает %.2f рублей. Годовой доход вырос на %.2f рублей.%n", newSalaryKristina, annualIncomeIncreaseKristina);
+=======
+        let dog = 8.0
+        let cat = 3.6
+        let paper = 763789
+        System.out.println(dog);
+        System.out.println(cat);
+>>>>>>> e25e0b4aeb5c42cc91134de3cf0eb30c563f40b4
     }
 }
